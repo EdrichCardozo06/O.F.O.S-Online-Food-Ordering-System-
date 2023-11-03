@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<restaurant>
+<category type="continental">
+<foodname>Yorkshire Lamb Patties</foodname>
+<price>120</price>
+<discription>Lamb patties which melt in your mouth, and are quick and easy to make. Served hot with a crisp salad.</discription>
+</category>
+
+<category type="Italian">
+<foodname>
+Lobster Thermidor</foodname>
+<price>420</price>
+<discription>Lobster Thermidor is a French dish of lobster meat cooked in a rich wine sauce, stuffed back into a lobster shell, and browned.</discription>
+</category>
+
+<category type="Chinese">
+<foodname>Stuffed Jacket Potatoes</foodname>
+<price>220</price>
+<discription>Deep fry whole potatoes in oil for 8-10 minutes or coat each potato with little oil. Mix the onions, garlic, tomatoes and mushrooms. Add yoghurt, ginger, garlic, chillies, coriander</discription>
+</category>
+
+<category type="American">
+<foodname> Fried Rice</foodname>
+<price>320</price>
+<discription>Chinese rice wok with cabbage, beans, carrots, and spring onions.</discription>
+</category>
+
+</restaurant>
